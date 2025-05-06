@@ -20,7 +20,6 @@ Exibe as horas, minutos e segundos do sistema, atualizados automaticamente, alé
 - Mudança dinâmica de mensagem e imagem conforme o período do dia.
 - Interface simples, intuitiva e responsiva.
 
-
 ## 📸 Demonstração
 
 ![manhã](Imagens/Foto_manhã.png)
@@ -32,6 +31,7 @@ Exibe as horas, minutos e segundos do sistema, atualizados automaticamente, alé
 ![noite](Imagens/Foto_noite.png)
 
 ![madrugada](Imagens/Foto_madrugada.png)
+
 
 ## 📌 Status do Projeto
 ✔️ Projeto finalizado — melhorias futuras são bem-vindas!
